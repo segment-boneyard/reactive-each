@@ -1,0 +1,14 @@
+{
+  "name": "reactive-each",
+  "repo": "segmentio/reactive-each",
+  "description": "Basic iteration for reactive",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
