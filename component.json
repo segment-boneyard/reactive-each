@@ -4,7 +4,10 @@
   "description": "Basic iteration for reactive",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "component/reactive": "0.14.1",
+    "component/domify": "*"
+  },
   "development": {},
   "license": "MIT",
   "main": "index.js",
